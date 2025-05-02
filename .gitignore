@@ -1,0 +1,17 @@
+# Credentials
+client_secret_*.json
+token.pickle
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env
+
+# Project specific
+downloads/
+extracted_text/
+chunked_texts/
+faiss_db/
+drive_files.db 
