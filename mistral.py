@@ -2,7 +2,7 @@ import os
 from mistralai import Mistral
 
 # Use the API key directly
-client = Mistral(api_key="jjjGlbEUyHs2ZkzhRAwjMZBJMur9glmA")
+client = Mistral(api_key="your api key")
 
 model = "mistral-large-latest"
 
